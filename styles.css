@@ -61,7 +61,7 @@ input, select, textarea { font-family: inherit; }
 }
 
 /* ── Section spacing ── */
-.section { padding: 96px 0; }
+.section { padding: 72px 0; }
 .section--gray { background: var(--gray-50); }
 .section--dark { background: var(--dark-bg); color: var(--white); }
 
