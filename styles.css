@@ -30,7 +30,7 @@
   --shadow-lg:   0 12px 40px rgba(0,0,0,.12);
 
   --transition:  0.2s ease;
-  --nav-h:       100px;
+  --nav-h:       115px;
 }
 
 /* ── Reset ── */
@@ -165,7 +165,7 @@ select:focus-visible {
   text-decoration: none;
 }
 .logo__img {
-  height: 64px;
+  height: 68px;
   width: auto;
   display: block;
 }
